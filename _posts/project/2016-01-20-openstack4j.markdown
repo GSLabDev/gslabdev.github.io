@@ -8,9 +8,7 @@ categories:
 img: o4j-misc.png
 thumb: thumb02.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- o4j-misc.png
 client: ContainX.
 website: http://www.openstack4j.com
 ---
