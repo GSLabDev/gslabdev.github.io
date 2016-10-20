@@ -8,9 +8,7 @@ categories:
 img: otp-manager.png
 thumb: thumb02.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- otp-manager.png
 client: 
 website: https://github.com/GSLabDev/OTPManager
 ---
