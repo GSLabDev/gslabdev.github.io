@@ -5,12 +5,12 @@ date:   2016-06-01 16:54:46
 author: Vinod Borole
 categories:
 - project
-img: o4j-shell.jpg
+img: o4j-cli.png
 thumb: thumb02.jpg
 carousel:
-- o4j-shell.jpg
+- o4j-cli.png
 client: 
-website: https://github.com/vinodborole/openstack4j-shell
+website: https://vinodborole.github.io/openstack4j-shell/
 ---
 
 #### Openstack4j Shell
