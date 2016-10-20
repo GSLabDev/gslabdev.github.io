@@ -8,9 +8,7 @@ categories:
 img: apache-kafka.png
 thumb: thumb02.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- apache-kafka.png
 client: 
 website: https://github.com/GSLabDev/libasynckafkaclient
 ---
