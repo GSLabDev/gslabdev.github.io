@@ -7,9 +7,7 @@ categories:
 - project
 img: o4j-gbp.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- o4j-gbp.png
 client: 
 website: http://www.openstack4j.com
 ---
