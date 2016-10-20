@@ -1,0 +1,99 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: GS Open Lab
+description: "Open Source  @ GS Lab"
+analytics: UA-50546869-2
+baseurl: "/" #important: start with /
+url: "http://open.gslab.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#FFC12D" #"#F70031" 
+  primary_rgb: "255,193,45" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#757b7f" #"#33004D"
+  link: "#428bca"
+  link_hover: "#FFC12D"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/gs-lab
+  - title: facebook
+    url: https://www.facebook.com/LifeAtGSLab
+  - title: twitter
+    url: https://twitter.com/_gslab
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines: 
+    - Amar Arma Genesis,
+    - Baner Road, Baner, 
+    - Pune 411045 India,
+email: info@gslab.com
+tel: +91 20 4671 1000
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Vinod Borole
+    position: Associate Architect
+    text: Member of ContainX org (Asia) responsible for managing openstack4j contributions.
+    img: Vinod_Borole_new.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:vinod.borole@gslab.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Shital Patil
+    position: Senior Software Engineer
+    text: Frequent committer for openstack4j project.
+    img: Shital_Patil_.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:shital.patil@gslab.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Sumit Gandhi
+    position: Software Engineer
+    text: Frequent committer for openstack4j project.
+    img: Sumit_Gandhi_.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:sumit.gandhi@gslab.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Abdul Waheed
+    position: Software Engineer
+    text: Frequent committer for OTP Manager project.
+    img: Abdul_Waheed_.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:abdul.waheed@gslab.com
+      - title: twitter
+        url: http://twitter.com/handle
+    
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: 
+    img:
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "GS Lab is committed to open source technology and the commitment to collaboration is innate in our DNA. GSOpenLab is committed to drive the growth of open source technologies with its efforts on community-led initiatives, collaborations and industry focused open source code development."
+
+# Testimonial content. Shown on Home and About page. 
+testimonial:
+    message: 
+    author: 
+    position:

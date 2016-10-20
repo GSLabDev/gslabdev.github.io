@@ -1,0 +1,30 @@
+<div class="container mtb">
+    <div class="row centered">
+        <h3 class="mb">TAKE A LOOK AT OUR TOP CONTRIBUTORS</h3>
+        
+        {% for member in site.members %}
+        <div class="contributors_1">
+        <div class="img_class">
+                                  <div class="contributors he-wrap tpl6">
+                                     <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="" class="img-responsive">
+                               <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <div class="members-name">
+                           <h4>{{ member.name }}</h4>
+            <h5 class="ctitle">{{ member.position }}</h5>
+            <p>{{ member.text }}</p>
+            </div>
+            <div class="hline"></div>
+        </div><! --/col-md-2 -->	
+        </div>
+        {% endfor %}
+        
+    </div><! --/row -->
+</div><! --/container -->

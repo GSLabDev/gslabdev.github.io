@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Fluent API Client for Openstack - Group Based Policy"
+date: 2016-05-23 16:54:46
+author: Vinod Borole
+categories: 
+- blog 
+- Openstack
+- Openstack4j
+img:
+thumb: thumb01.jpg
+---
+With the popularity of Openstack and growing community-based initiative in more than hundred countries; there is a major community-based initiative by thousands of contributors. It's time to focus on real challenges that involve deployment and delivery of applications and services with flexibility, security, speed and scale rather than just orchestration of infrastructure components. In order to achieve this there is a need for a declarative policy engine. One such project is Group Based policy.[Read More][read-more-lnk]  
+
+[read-more-lnk]: http://gslab.com/blogs?view=entry&id=52
