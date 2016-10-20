@@ -8,9 +8,7 @@ categories:
 img: o4j-shell.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- o4j-shell.jpg
 client: 
 website: https://github.com/vinodborole/openstack4j-shell
 ---
