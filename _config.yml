@@ -5,7 +5,7 @@ title: GS Open Lab
 description: "Open Source  @ GS Lab"
 analytics: UA-50546869-2
 baseurl: "/" #important: start with /
-url: "http://open.gslab.com"
+url: "http://gslabdev.github.io"
 
 # Build settings
 markdown: kramdown
