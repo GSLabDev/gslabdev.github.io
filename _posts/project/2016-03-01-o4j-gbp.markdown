@@ -17,4 +17,4 @@ OpenStack4j is an open source Openstack client which allows provisioning and con
 It also lists in the Openstack official wiki as the java library to interact with Openstack.
 
 #### Our Contributions
-As openstack4j was the most widely used library amongst the developer community it was a good idea to have the support for GBP as well. With its simplistic fluent API and intelligent error handling the experience of interacting Openstack has been made its easy.More info: http://gslab.com/blogs?view=entry&id=52
+As openstack4j was the most widely used library amongst the developer community it was a good idea to have the support for GBP as well. With its simplistic fluent API and intelligent error handling the experience of interacting Openstack has been made its easy.[More info]( http://gslab.com/blogs?view=entry&id=52)
