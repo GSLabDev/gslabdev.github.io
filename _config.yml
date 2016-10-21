@@ -54,8 +54,8 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:vinod.borole@gslab.com
-      - title: twitter
-        url: http://twitter.com/handle
+      - title: linkedin
+        url: https://in.linkedin.com/in/vinodborole
   - name: Shital Patil
     position: Senior Software Engineer
     text: Frequent committer for openstack4j project.
@@ -63,8 +63,8 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:shital.patil@gslab.com
-      - title: twitter
-        url: http://twitter.com/handle
+      - title: linkedin
+        url: https://in.linkedin.com/in/shital-patil89
   - name: Sumit Gandhi
     position: Software Engineer
     text: Frequent committer for openstack4j project.
@@ -72,8 +72,8 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:sumit.gandhi@gslab.com
-      - title: twitter
-        url: http://twitter.com/handle
+      - title: linkedin
+        url: https://in.linkedin.com/in/sumit-gandhi-405b7291
   - name: Abdul Waheed
     position: Software Engineer
     text: Frequent committer for OTP Manager project.
@@ -81,8 +81,8 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:abdul.waheed@gslab.com
-      - title: twitter
-        url: http://twitter.com/handle
+      - title: linkedin
+        url: https://in.linkedin.com/in/waheedabdul
     
 # Clients information. Shown on Home and About pages.
 clients:
