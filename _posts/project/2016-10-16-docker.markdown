@@ -1,0 +1,25 @@
+---
+layout: project
+title:  "Docker"
+date:   2016-10-16 16:54:46
+author: Milind Chawre, Dattatraya Kumbhar, Bhumika Bayani
+categories:
+- project
+img: docker-logo.png
+thumb: thumb02.jpg
+carousel:
+- docker-logo.png
+client: 
+website: https://github.com/docker/docker
+---
+
+#### Docker
+Docker is a most popular containerization technology. Its a tool that makes it  easier to build, ship and run applications by using containers.
+Docker uses LXC containers to run applications in user space on top of an operating system's kernel. That makes them very lightweight and very fast.
+
+
+#### Our Contributions
+Feature Request implementations in area of Docker NFS volumes. 
+Bug fixes in various components for docker-engine such as CLI, API, Volumes etc
+Improve Docker�s documentation pages to reflect latest and correct information
+Testing experimental features of Docker and suggest improvements by filing issues
