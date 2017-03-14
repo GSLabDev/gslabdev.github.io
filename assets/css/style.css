@@ -277,7 +277,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color:#FFC12D;
+  color:#101931;
 }
 
 ::-moz-selection  {
@@ -325,11 +325,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #FFC12D;
+	color: #101931;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #FFC12D;
+	color: #101931;
 	background-color: transparent;
 }
 
@@ -360,8 +360,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #FFC12D;
-  border-color: #FFC12D;
+  background-color: #101931;
+  border-color: #101931;
 }
 
 .dmbutton:hover,
@@ -423,7 +423,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #FFC12D;
+	background-color: #101931;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -451,7 +451,7 @@ a:focus {
 }
 
 #service i {
-	color: #FFC12D;
+	color: #101931;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -499,15 +499,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#FFC12D;
-	background-color:rgba(255,193,45,.9);
+	background-color:#101931;
+	background-color:rgba(16,25,49,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: #FFC12D;
-    background-color:rgba(255,193,45,.8);
+    background-color: #101931;
+    background-color:rgba(16,25,49,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -583,7 +583,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #FFC12D
+	color: #101931
 }
 
 /*	################################################################
@@ -592,7 +592,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #FFC12D;
+	background: #101931;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -627,7 +627,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #FFC12D;
+	color: #101931;
 	/*font-weight: 700;*/
 	margin-bottom: 15px;
 }
@@ -643,7 +643,7 @@ csmall {
 }
 
 .badge-theme {
-	background: #FFC12D;
+	background: #101931;
 }
 
 /* Contact Page */
