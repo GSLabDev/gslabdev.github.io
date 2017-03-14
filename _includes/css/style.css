@@ -176,7 +176,7 @@ font-weight: 600;
 }
 
 .btn-theme {
-  color: #fff;
+  color: #101931;
   background-color: {{ site.colors.secondary }};
   border-color: {{ site.colors.secondary }};
   margin: 4px;
