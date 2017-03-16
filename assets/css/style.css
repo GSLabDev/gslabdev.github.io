@@ -107,17 +107,6 @@ a:focus {
   color:{{ site.colors.link_hover }};
 }
 
-::-moz-selection  {
-	color: #fff;
-	text-shadow:none;
-	background:{{ site.colors.secondary }};
-}
-::selection {
-	color: #fff;
-	text-shadow:none;
-	background:{{ site.colors.secondary }};
-}
-
 .centered {
 	text-align: center
 }
@@ -177,9 +166,8 @@ font-weight: 600;
 
 .btn-theme {
   color: #101931;
-  background-color: {{ site.colors.secondary }};
-  border-color: {{ site.colors.secondary }};
   margin: 4px;
+  border-color: #101931
 }
 .btn-theme:hover,
 .btn-theme:focus,
