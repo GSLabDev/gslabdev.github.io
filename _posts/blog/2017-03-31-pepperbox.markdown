@@ -59,7 +59,7 @@ random values dynamically for every iteration,
 
 ```
 {
-"messageId":{{SEQUENCE("messageId", 1, 1)}},
+"messageId":\\{\\{SEQUENCE\\("messageId", 1, 1\\)\\}\\},
 "messageBody":"{{RANDOM_ALPHA_NUMERIC("abcdefg", 2)}}",
 "messageCategory":"{{RANDOM_STRING("Finance","Shares","Healthcare")}}", "messageStatus":"{{RANDOM_STRING("Accepted","Pending","Processing")}}",
 "messageTime":{{TIMESTAMP()}}
