@@ -8,7 +8,7 @@ categories:
 - Openstack
 - Openstack4j
 img:
-thumb: thumb01.jpg
+thumb: o4j-trove.png
 ---
 OpenStack Trove is a DBaaS (Database as a service) solution. It offers IT organizations the ability to operate a complete DBaaS platform 
 within the enterprise. IT organizations can offer a rich variety of databases to their internal customers with the same ease of use that 
