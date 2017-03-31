@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Fluent API Client for Openstack - Trove"
+date: 2016-12-01 16:54:46
+author: Shital Patil, Sumit Gandhi
+categories: 
+- blog 
+- Openstack
+- Openstack4j
+img:
+thumb: thumb01.jpg
+---
+OpenStack Trove is a DBaaS (Database as a service) solution. It offers IT organizations the ability to operate a complete DBaaS platform 
+within the enterprise. IT organizations can offer a rich variety of databases to their internal customers with the same ease of use that 
+Amazon offers with its AWS cloud and the RDS product. Openstack trove supports both RDBMS as well as NoSQL databases.[Read More][read-more-lnk]
+
+[read-more-lnk]: https://www.gslab.com/fluent-api-client-for-openstack-trove/
+
