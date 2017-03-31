@@ -17,7 +17,7 @@ It allows to send kafka messages of type plain text(JSON, XML, CSV or any other 
 Pepper-Box includes template engine and random data generation function which helps to design message in any format. 
 
 If we use it with JMeter then we can use all JMeter features. Pepper-Box is very useful in streaming analytics and data pipelines 
-implementation, where input data format is tightly coupled with business problems. <!--more-->
+implementation, where input data format is tightly coupled with business problems.
 
 **Pepper-Box include four main components:**
 
