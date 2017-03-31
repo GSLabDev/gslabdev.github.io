@@ -56,7 +56,7 @@ producer property file, throttle rate, duration, number of producer threads etc.
 
 You can see below sample JSON message schema with five fields and values are template functions which will be replaced with generates 
 random values dynamically for every iteration,
-
+```
 {% raw %}
 {
 "messageId":{{SEQUENCE("messageId", 1, 1)}},
@@ -65,6 +65,8 @@ random values dynamically for every iteration,
 "messageTime":{{TIMESTAMP()}}
 }
 {% endraw %}
+
+```
 
 **Pepper-Box workflow**
 
