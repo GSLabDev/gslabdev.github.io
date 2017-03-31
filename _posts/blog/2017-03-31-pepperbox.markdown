@@ -21,7 +21,7 @@ implementation, where input data format is tightly coupled with business problem
 
 **Pepper-Box include four main components:**
 
-**Pepper-Box Kafka Sampler : **
+**Pepper-Box Kafka Sampler :**
 
 
 This is JMeter java sampler and acts as kafka producer.This sampler gets messages from backend data generator and sends messages to 
