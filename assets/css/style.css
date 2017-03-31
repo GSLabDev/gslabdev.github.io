@@ -226,7 +226,7 @@ font-weight: 600;
 }
 
 .hline {
-	border-bottom: 2px solid {{ site.colors.secondary }};
+	border-bottom: 2px solid #101931;
 }
 
 .hline-w {
