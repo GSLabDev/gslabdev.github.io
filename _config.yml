@@ -119,6 +119,15 @@ members:
         url: mailto:manuwela.kanade@gslab.com
       - title: linkedin
         url: https://in.linkedin.com/in/manuwela-kanade-526a3ab
+  - name: Satish Bhor
+    position: Software Engineer
+    text: Author and committer for PepperBox project.
+    img: satish_bhor.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:satish.bhor@gslab.com
+      - title: linkedin
+        url: https://in.linkedin.com/in/satish-bhor-76589630        
     
 # Clients information. Shown on Home and About pages.
 clients:
