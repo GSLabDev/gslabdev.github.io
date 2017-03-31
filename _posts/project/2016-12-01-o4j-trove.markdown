@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Openstack 4j Trove"
+date:   2016-12-01 16:54:46
+author: Shital Patil, Sumit Gandhi
+categories:
+- project
+img: o4j-trove.png
+carousel:
+- o4j-trove.png
+client: 
+website: http://www.openstack4j.com
+---
+
+#### Openstack 4j Trove
+OpenStack Trove is a DBaaS (Database as a service) solution. It offers IT organizations the ability to operate a complete DBaaS platform within the enterprise. IT organizations can offer a rich variety of databases to their internal customers with the same ease of use that Amazon offers with its AWS cloud and the RDS product. 
+Openstack trove supports both RDBMS as well as NoSQL databases.
+
+#### Our Contributions
+As openstack4j was the most widely used library amongst the developer community it was a good idea to have the support for Trove as well. 
+With its simplistic fluent API and intelligent error handling the experience of interacting Openstack has been made its easy.[More info]( https://www.gslab.com/fluent-api-client-for-openstack-trove/)
