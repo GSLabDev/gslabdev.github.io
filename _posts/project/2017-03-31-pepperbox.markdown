@@ -2,7 +2,7 @@
 layout: project
 title:  "Pepper Box"
 date:   2017-03-31 16:54:46
-author: Satish Bhor
+author: Satish Bhor, Nachiket Kate
 categories:
 - project
 img: pepperbox.png
