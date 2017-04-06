@@ -22,12 +22,14 @@ We felt the need for a monitoring tool for Openstack using splunk. Splunk has ca
 be represented in text format. Searches are made using the Search Processing Language (SPL). The search processing language is also fast 
 enough to even give real time status of the services . So we developed Openstack App for Splunk and Openstack Addon for Splunk
 
-## Published App on Splunk
+#### Published App on Splunk
 
-https://splunkbase.splunk.com/app/2904/
+[Openstack App for Splunk]
 
+[Openstack Addon for Splunk]
 
-https://splunkbase.splunk.com/app/2905/
+[Openstack App for Splunk]: https://splunkbase.splunk.com/app/2904/
+[Openstack Addon for Splunk]: https://splunkbase.splunk.com/app/2905/
 
 #### Our Contributions
 Author, Bug fixes, Improvement fixes, Feature requests
