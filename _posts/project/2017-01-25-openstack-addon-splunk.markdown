@@ -5,10 +5,10 @@ date:   2017-01-25 16:54:46
 author: Basant Kumar, Vikas Sanap
 categories:
 - project
-img: openstack-app-splunk.jpg
+img: openstack-app-splunk.jpeg
 thumb: thumb02.jpg
 carousel:
-- openstack-app-splunk.jpg
+- openstack-app-splunk.jpeg
 client: 
 website: https://github.com/GSLabDev/openstack-addon-for-splunk
          https://github.com/GSLabDev/openstack-app-for-splunk
