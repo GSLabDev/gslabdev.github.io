@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "ScaleArc Mysql performance benchmark"
+date:   2017-01-30 16:54:46
+author: Aarti Karve
+categories:
+- project
+img: scaleArc.jpg
+thumb: thumb02.jpg
+carousel:
+- scaleArc.jpg
+client: 
+website: https://github.com/GSLabDev/ScaleArc_MySQL_perf_benchmark
+---
+
+#### ScaleArc Mysql performance benchmark
+This project measures the performance impact of ScaleArc as a cache for a MySQL NDB cluster with the SysBench OLTP benchmark. 
+This exercise was carried out by GS lab in collaboration with ScaleArc in a test environment at GS Lab.
+
+#### Our Contributions
+Author, Bug fixes, Improvement fixes, Feature requests
