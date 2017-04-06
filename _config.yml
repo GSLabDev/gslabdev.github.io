@@ -126,7 +126,31 @@ members:
       - title: envelope #use for email address
         url: mailto:nachiket.kate@gslab.com
       - title: linkedin
-        url: https://in.linkedin.com/in/nachiketkate       
+        url: https://in.linkedin.com/in/nachiketkate   
+  - name: Aarti Karve
+    text: Committer for ScaleArc Mysql Performance benchmark Project.
+    img: Aarti-Karve.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:aarti.karve@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/aarti-karve-27a63014/      
+  - name: Basant Kumar
+    text: Committer for Openstack Addon for Splunk Project.
+    img: basant-kumar.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:basant.kumar@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/basant-kumar-74144490 
+  - name: Vikas Sanap
+    text: Committer for Openstack App for Splunk Project.
+    img: Vikas_sanap.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:basant.kumar@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/vikassanap/        
     
 # Clients information. Shown on Home and About pages.
 clients:
