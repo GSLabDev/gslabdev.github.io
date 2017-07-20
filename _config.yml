@@ -13,15 +13,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#101931" #"#FFC12D" #"#F70031" 
-  primary_rgb: "16,25,49" #"255,193,45" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#101931" #"#FFC12D" #"#F70031"
+  primary_rgb: "16,25,49" #"255,193,45" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#757b7f" #"#33004D"
   link: "#428bca"
   link_hover: "#101931"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -35,16 +35,16 @@ social:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - Amar Arma Genesis,
-    - Baner Road, Baner, 
+    - Baner Road, Baner,
     - Pune 411045 India,
 email: info@gslab.com
 tel: +91 20 4671 1000
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
   - name: Vinod Borole
@@ -118,7 +118,7 @@ members:
       - title: envelope #use for email address
         url: mailto:satish.bhor@gslab.com
       - title: linkedin
-        url: https://in.linkedin.com/in/satish-bhor-76589630        
+        url: https://in.linkedin.com/in/satish-bhor-76589630
   - name: Nachiket Kate
     text: Author and committer for PepperBox project.
     img: Nachiket-Kate.jpg
@@ -126,7 +126,7 @@ members:
       - title: envelope #use for email address
         url: mailto:nachiket.kate@gslab.com
       - title: linkedin
-        url: https://in.linkedin.com/in/nachiketkate   
+        url: https://in.linkedin.com/in/nachiketkate
   - name: Aarti Karve
     text: Committer for ScaleArc Mysql Performance benchmark Project.
     img: Aarti-Karve.jpg
@@ -134,7 +134,7 @@ members:
       - title: envelope #use for email address
         url: mailto:aarti.karve@gslab.com
       - title: linkedin
-        url: https://www.linkedin.com/in/aarti-karve-27a63014/      
+        url: https://www.linkedin.com/in/aarti-karve-27a63014/
   - name: Basant Kumar
     text: Committer for Openstack Addon for Splunk Project.
     img: basant-kumar.jpg
@@ -142,7 +142,7 @@ members:
       - title: envelope #use for email address
         url: mailto:basant.kumar@gslab.com
       - title: linkedin
-        url: https://www.linkedin.com/in/basant-kumar-74144490 
+        url: https://www.linkedin.com/in/basant-kumar-74144490
   - name: Vikas Sanap
     text: Committer for Openstack App for Splunk Project.
     img: Vikas_sanap.jpg
@@ -150,18 +150,42 @@ members:
       - title: envelope #use for email address
         url: mailto:vikas.sanap@gslab.com
       - title: linkedin
-        url: https://www.linkedin.com/in/vikassanap/        
-    
+        url: https://www.linkedin.com/in/vikassanap/
+  - name: Ravindra Yadav
+    text: Committer for StackStorm Exchange Project.
+    img: ravindra_yadav.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:ravindra.yadav@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/ravindra-yadav-35576214
+  - name: Yugendra Khonde
+    text: Committer for StackStorm Exchange Project.
+    img: yugendra_khonde.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:Yugendra.khonde@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/yugendra-khonde-8577a216
+  - name: Aditi Kulkarni
+    text: Committer for StackStorm Exchange Project.
+    img: aditi_kulkarni.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:aditi.kulkarni@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/aditi-kulkarni-5814368b
+
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: 
+  - name:
     img:
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "GS Lab is committed to open source technology and the commitment to collaboration is innate in our DNA. GSOpenLab is committed to drive the growth of open source technologies with its efforts on community-led initiatives, collaborations and industry focused open source code development."
 
-# Testimonial content. Shown on Home and About page. 
+# Testimonial content. Shown on Home and About page.
 testimonial:
-    message: 
-    author: 
+    message:
+    author:
     position:

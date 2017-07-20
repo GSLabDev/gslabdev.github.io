@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Brocade VCS Gateway for VMware NSX"
+date:   2017-07-01 16:54:46
+author: Ravindra Yadav ,Yugendra Khonde , Aditi Kulkarni
+categories:
+- project
+img: stackstorm.png
+thumb: thumb02.jpg
+carousel:
+- stackstorm.png
+client: https://github.com/StackStorm-Exchange/stackstorm-vdx_vtep
+website: https://exchange.stackstorm.org
+---
+
+#### Simple Setup with the Open Source StackStorm Integration Pack
+Created by a Brocade partner, GS Lab, the StackStorm Integration Pack for Brocade VCS Gateway for VMware NSX makes installation simple, especially for teams with little to no experience using Brocade networking technology. The administrator simply plugs in the Brocade VDX switches, enters basic environment data into a browser-based form, and the StackStorm Integration Pack does the rest . Post installation, all VTEP management functions are carried out through the VMware NSX interface.
+
+#### Our Contributions
+Author, Bug fixes, Improvement fixes
