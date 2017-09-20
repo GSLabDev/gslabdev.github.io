@@ -175,6 +175,14 @@ members:
         url: mailto:aditi.kulkarni@gslab.com
       - title: linkedin
         url: https://www.linkedin.com/in/aditi-kulkarni-5814368b
+  - name: Omkareshwar Telee
+    text: Committer for Openstack Project.
+    img: omkareshwar_telee.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:omkareshwar.telee@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/omkareshwar-telee
 
 # Clients information. Shown on Home and About pages.
 clients:
