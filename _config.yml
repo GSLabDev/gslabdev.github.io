@@ -183,6 +183,48 @@ members:
         url: mailto:omkareshwar.telee@gslab.com
       - title: linkedin
         url: https://www.linkedin.com/in/omkareshwar-telee
+  - name: Bhushan Rane
+    text: Committer for Terraform Provider Project.
+    img: Bhushan_Rane.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:bhushan.rane@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/bhushan-rane-27168419/
+  - name: Sadhana Sonawa
+    text: Committer for Terraform Provider Project.
+    img: Sadhana_Sonawajpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:sadhana.sonawa@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/sadhana-sonawa-8b25a06b/
+  - name: Shubham Tholiya
+    text: Committer for Terraform Provider Project.
+    img: Shubham_Tholiyajpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:shubham.tholiya@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/shubham-tholiya/
+  - name: Kiran Gund
+    text: Committer for Terraform Provider Project.
+    img: Kiran_Gund.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:kiran.gund@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/kiran-gund-4482bb12a/
+  - name: Payal Rahatal
+    text: Committer for Terraform Provider Project.
+    img: Payal_Rahatal.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:payal.rahatal@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/payal-rahatal-4b85bb119/
+      
+        
 
 # Clients information. Shown on Home and About pages.
 clients:
