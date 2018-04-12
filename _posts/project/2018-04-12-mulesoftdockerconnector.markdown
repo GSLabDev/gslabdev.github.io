@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 carousel:
 - dockerconnector.png
 client: https://github.com/GSLabDev/docker-connector
-website:  https://www.mulesoft.com/exchange/org.mule.modules/docker-connector/1.0.0/pages/Helpful%20Links/
+website:  https://www.mulesoft.com/exchange/org.mule.modules/docker-connector/1.0.0/
 ---
 
 #### Docker Connector for Mulesoft
