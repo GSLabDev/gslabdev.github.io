@@ -223,8 +223,23 @@ members:
         url: mailto:payal.rahatal@gslab.com
       - title: linkedin
         url: https://www.linkedin.com/in/payal-rahatal-4b85bb119/
-      
-        
+  - name: Nagnath Sawant
+    text: Committer for Mulesoft Docker connector Project.
+    img: Nagnath-sawant.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:nagnath.sawant@gslab.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/nagnathsawant
+  - name: Niranjan Joshi
+    text: Committer for Mulesoft Docker connector Project.
+    img: Niranjan-Joshi.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:niranjan.joshi@gslab.com
+      - title: linkedin
+        url:  https://www.linkedin.com/in/niranjanjoshi14
+
 
 # Clients information. Shown on Home and About pages.
 clients:
