@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 carousel:
 - terraform-providers.png
 client: Terraform Provider and Terrform Module
-References:  1. https://github.com/terraform-providers/terraform-provider-vsphere 2. https://www.terraform.io/docs/providers/type/community-index.html 3. https://registry.terraform.io/modules/GSLabDev 
+Website:  1. https://github.com/terraform-providers/terraform-provider-vsphere 2. https://www.terraform.io/docs/providers/type/community-index.html 3. https://registry.terraform.io/modules/GSLabDev 
 ---
 
 #### Terraform Contribution
