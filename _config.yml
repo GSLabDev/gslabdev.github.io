@@ -223,6 +223,22 @@ members:
         url: mailto:niranjan.joshi@gslab.com
       - title: linkedin
         url:  https://www.linkedin.com/in/niranjanjoshi14
+  - name: Sagar Joshi
+    text: Committer for OpalVoip Project.
+    img: Sagar_Photo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:sagar.joshi@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/sagar-joshi-2b83864
+  - name: Ammar Nasikwala
+    text: Committer for OpalVoip Project.
+    img: Ammar_photo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:ammar.nasikwala@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/ammarnasikwala
 
 
 # Clients information. Shown on Home and About pages.
