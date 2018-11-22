@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  NFF-Go: Network Function Framework for GO (former YANFF)
+title:  "NFF-Go: Network Function Framework for GO (former YANFF)"
 date:   2016-20-01 16:54:46
 author: Amit Wankhede
 categories:
