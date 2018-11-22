@@ -239,6 +239,14 @@ members:
         url: mailto:ammar.nasikwala@gslab.com
       - title: linkedin
         url:  https://in.linkedin.com/in/ammarnasikwala
+  - name: Amit Wankhede
+    text: Committer for NFF-Go Project.
+    img: AmitWankhede.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:amit.wankhede@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/amit-wankhede-9136aa9
 
 
 # Clients information. Shown on Home and About pages.

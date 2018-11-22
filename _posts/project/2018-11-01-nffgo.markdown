@@ -1,0 +1,34 @@
+---
+layout: project
+title:  NFF-Go: Network Function Framework for GO (former YANFF)
+date:   2016-20-01 16:54:46
+author: Amit Wankhede
+categories:
+- project
+img: dpdk.png
+thumb: thumb02.jpg
+carousel:
+- dpdk.png
+client: Intel/AT&T
+website:  https://www.dpdk.org/
+---
+
+#### NFF-Go: Network Function Framework for GO (former YANFF)
+NFF-Go is a set of libraries for creating and deploying cloud-native Network Functions (NFs).
+It simplifies the creation of network functions without sacrificing performance.
+NFF-Go is part of DPDK project umbrella under Linux Foundation
+
+#### Our Contributions
+Developed Fixed BNG-PGW Data Plane (DP) Virtual Network Function (VNF )
+ which supports the following PGW Data Path(DP) features:
+
+    1.PCC (Policy Control and Charging) rules configuration.
+    2.ADC (Application Detection and control) rules configuration.
+    3.Packet Filters for Service Data Flow (SDF) configuration.
+    4.Packet Selectors/Filters for ADC configuration.
+    5.UE sessions with multiple Bearer support.
+    6.KNI with static ARP and dynamic arp support
+    7.Using Netlink for route and arp cache discovery and lookup.
+    8.CP (Control Path) Simulator for establishing UE session.
+
+  Development is under "Fixed_BNG" branch.
