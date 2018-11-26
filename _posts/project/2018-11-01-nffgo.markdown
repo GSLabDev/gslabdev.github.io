@@ -9,7 +9,7 @@ img: dpdk.png
 thumb: thumb02.jpg
 carousel:
 - dpdk.png
-client: Intel/AT&T
+client: Intel
 website:  https://www.dpdk.org/
 ---
 
