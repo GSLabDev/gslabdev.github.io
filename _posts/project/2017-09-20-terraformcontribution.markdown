@@ -2,15 +2,15 @@
 layout: project
 title:  "Terraform Contribution"
 date:   2017-09-20 16:54:46
-author: Bhushan Rane, Sadhana Sonawa, Shubham Tholiya, Pallavi Joshi, Sujay Nakhare, Kiran Gund, Payal Rahatal, Sudeep Mukhedkar, Ganesh Chokhare, Mayur Patange, Vrushal Patankar
+author: Bhushan Rane, Sadhana Sonawa, Shubham Tholiya, Pallavi Joshi, Sujay Nakhare, Kiran Gund, Payal Rahatal, Vijaylaxmi Edke, Sudeep Mukhedkar, Ganesh Chokhare, Mayur Patange, Vrushal Patankar
 categories:
 - project
 img: terraform-providers.png
 thumb: thumb02.jpg
 carousel:
 - terraform-providers.png
-client: Terraform Provider and Terrform Module
-Website:  1. https://github.com/terraform-providers/terraform-provider-vsphere 2. https://www.terraform.io/docs/providers/type/community-index.html 3. https://registry.terraform.io/modules/GSLabDev 
+client: Terraform Providers https://www.terraform.io/docs/providers/type/community-index.html and Terrform Module https://registry.terraform.io/modules/GSLabDev
+Website:  https://github.com/terraform-providers/terraform-provider-vsphere
 ---
 
 #### Terraform Contribution
