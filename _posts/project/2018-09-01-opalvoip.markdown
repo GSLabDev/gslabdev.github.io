@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "OpalVoip"
+date:   2018-09-01 16:54:46
+author: Sagar Joshi, Ammar Nasikwala
+categories:
+- project
+img: opalvoip.jpg
+thumb: thumb02.jpg
+carousel:
+- opalvoip.jpg
+client: https://sourceforge.net/p/opalvoip/opal/ci/BFCP_integration/tree/src/sdp/bfcpinterface.cxx
+website:  http://www.opalvoip.org/
+---
+
+#### Opal Voip
+In a joint venture with Fuze, gslab worked on few feature requirements as a open source contribution.
+
+#### Our Contributions
+Enhancements, Bug fixes

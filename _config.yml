@@ -71,14 +71,6 @@ members:
         url: mailto:sumit.gandhi@gslab.com
       - title: linkedin
         url: https://in.linkedin.com/in/sumit-gandhi-405b7291
-  - name: Abdul Waheed
-    text: Frequent committer for OTP Manager project.
-    img: Abdul_Waheed_.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:abdul.waheed@gslab.com
-      - title: linkedin
-        url: https://in.linkedin.com/in/waheedabdul
   - name:	Bhumika Bayani
     text: Frequent committer for Docker project.
     img: Bhumika_Bayani_.jpg
@@ -95,14 +87,6 @@ members:
         url: mailto:milind.chawre@gslab.com
       - title: linkedin
         url: https://in.linkedin.com/in/milind-chawre
-  - name: Dattatraya Kumbhar
-    text: Frequent committer for Docker project.
-    img: Dattatraya_Kumbhar_.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:dattatraya.kumbhar@gslab.com
-      - title: linkedin
-        url: https://in.linkedin.com/in/dattatraya-kumbhar-45923a38
   - name: Manuwela Kanade
     text: Frequent committer for Apache Mesos project.
     img: Manuwela_Kanade_.jpg
@@ -239,6 +223,30 @@ members:
         url: mailto:niranjan.joshi@gslab.com
       - title: linkedin
         url:  https://www.linkedin.com/in/niranjanjoshi14
+  - name: Sagar Joshi
+    text: Committer for OpalVoip Project.
+    img: Sagar_Photo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:sagar.joshi@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/sagar-joshi-2b83864
+  - name: Ammar Nasikwala
+    text: Committer for OpalVoip Project.
+    img: Ammar_photo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:ammar.nasikwala@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/ammarnasikwala
+  - name: Amit Wankhede
+    text: Committer for NFF-Go Project.
+    img: AmitWankhede.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:amit.wankhede@gslab.com
+      - title: linkedin
+        url:  https://in.linkedin.com/in/amit-wankhede-9136aa9
 
 
 # Clients information. Shown on Home and About pages.
