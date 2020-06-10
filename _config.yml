@@ -183,14 +183,6 @@ members:
         url: mailto:sadhana.sonawa@gslab.com
       - title: linkedin
         url: https://www.linkedin.com/in/sadhana-sonawa-8b25a06b/
-  - name: Shubham Tholiya
-    text: Committer for Terraform Provider Project.
-    img: Shubham_Tholiya.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:shubham.tholiya@gslab.com
-      - title: linkedin
-        url: https://www.linkedin.com/in/shubham-tholiya/
   - name: Kiran Gund
     text: Committer for Terraform Provider Project.
     img: Kiran_Gund.jpg
