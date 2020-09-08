@@ -9,7 +9,7 @@ img: ansible-community-contribution.png
 thumb: thumb02.jpg
 carousel:
 - ansible-community-contribution.png
-client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127
+client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131
 ---
 
 #### Ansible Community Contribution
@@ -18,6 +18,7 @@ Ansible is an open-source software provisioning, configuration management, and a
 1. winZip Module: Added a new feature of password parameter which unarchive password protected zip files.
 2. win_dns_record Module: Added a new feature of SRV dns record to an existing win_dns_record module.
 3. win_firewall_rule  Module: Added a new feature that allows the user to enable or disable all the firewall rules in a particular group.
+4. win_dns_record Module: Added a new feature of NS DNS record to an existing win_dns_record module.
 
 #### Our Contributions
 Feature implementation in Ansible Module
