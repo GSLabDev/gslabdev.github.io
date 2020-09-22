@@ -2,14 +2,14 @@
 layout: project
 title:  "Ansible community contribution"
 date:   2020-06-10 16:54:46
-author: Masarrat Mahedvi, Pallavi Joshi, Sakar Mehra, Suyeb Ansari, Pallavi Chaudhari
+author: Masarrat Mahedvi, Pallavi Joshi, Sakar Mehra, Suyeb Ansari, Pallavi Chaudhari, Shwetali Berad
 categories:
 - project
 img: ansible-community-contribution.png
 thumb: thumb02.jpg
 carousel:
 - ansible-community-contribution.png
-client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131 and https://github.com/ansible-collections/azure Pull request - 248, 254
+client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131 and https://github.com/ansible-collections/azure Pull request - 243, 248, 254
 ---
 
 #### Ansible Community Contribution
@@ -26,6 +26,7 @@ Azure Ansible Collection:
 2. azure_rm_backupazurevm_info Module: Added a new feature to get detail information about Azure VM backups.
 3. azure_rm_recoveryservicesvault Module: Added a new features of Azure Recovery Services Vault for create, update and delete azure recovery services vault.
 4. azure_rm_recoveryservicesvault_info Module: Added a new feature to get detail information about Azure Recovery Services Vault.
+5. azure_rm Module: Added a new feature to fetch availability zone info into hostvars via Azure Inventory Script.
 
 #### Our Contributions
 Feature implementation in different Ansible Collections and Ansible Module.
