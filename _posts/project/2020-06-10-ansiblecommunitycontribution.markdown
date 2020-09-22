@@ -9,7 +9,7 @@ img: ansible-community-contribution.png
 thumb: thumb02.jpg
 carousel:
 - ansible-community-contribution.png
-client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131 and https://github.com/ansible-collections/azure Pull request - 248
+client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131 and https://github.com/ansible-collections/azure Pull request - 248, 254
 ---
 
 #### Ansible Community Contribution
@@ -24,6 +24,8 @@ Windows Ansible Collection:
 Azure Ansible Collection:
 1. azure_rm_backupazurevm Module: Added a new features of backup Azure VM for enabling protection, trigger on-demand backup, modify backup, top protection but retain existing data, Stop protection and delete data.
 2. azure_rm_backupazurevm_info Module: Added a new feature to get detail information about Azure VM backups.
+3. azure_rm_recoveryservicesvault Module: Added a new features of Azure Recovery Services Vault for create, update and delete azure recovery services vault.
+4. azure_rm_recoveryservicesvault_info Module: Added a new feature to get detail information about Azure Recovery Services Vault.
 
 #### Our Contributions
 Feature implementation in different Ansible Collections and Ansible Module.
