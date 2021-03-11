@@ -239,6 +239,14 @@ members:
         url: mailto:amit.wankhede@gslab.com
       - title: linkedin
         url:  https://in.linkedin.com/in/amit-wankhede-9136aa9
+  - name: Sakar Mehra
+    text: Frequent committer for Ansible Collections Module Project.
+    img: Sakar_Mehra.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:sakar.mehra@gslab.com
+      - title: linkedin
+        url:  https://www.linkedin.com/in/sakar-mehra-73066a7b
 
 
 # Clients information. Shown on Home and About pages.
