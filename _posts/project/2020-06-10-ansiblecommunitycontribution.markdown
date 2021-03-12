@@ -2,14 +2,14 @@
 layout: project
 title:  "Ansible community contribution"
 date:   2020-06-10 16:54:46
-author: Masarrat Mahedvi, Pallavi Joshi, Sakar Mehra, Suyeb Ansari, Pallavi Chaudhari, Shwetali Berad
+author: Pallavi Joshi, Sakar Mehra, Suyeb Ansari, Pallavi Chaudhari, Shwetali Berad, Nikhil Patne
 categories:
 - project
 img: ansible-community-contribution.png
 thumb: thumb02.jpg
 carousel:
 - ansible-community-contribution.png
-client: https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131, 136 and https://github.com/ansible-collections/azure Pull request - 243, 248, 254, 264, 271, 286
+client: For https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131, 136 For https://github.com/ansible-collections/azure Pull request - 243, 248, 254, 264, 271, 286 For https://github.com/ansible-collections/community.aws Pull request - 283, 291 For https://github.com/ansible-collections/community.docker Pull request - 95
 ---
 
 #### Ansible Community Contribution
@@ -30,5 +30,12 @@ Azure Ansible Collection:
 5. azure_rm_privatednsrecordset Module: Added a new features of DNS record set in a Private DNS zone with operations create, update, deleta and get details of DNS record set from Private DNS zone.
 6. azure_rm_subnet Module: Added a new feature to delegation capabilities in azure_rm_subnet module.
 
+AWS Ansible Collection:
+1. ec2_win_password Module: Bugfixes in ec2_win_password Module. Bug1 - ec2_win_password returns success when it fails to decode the password. Bug2 - ec2_win_password returns changed state but doesn't change anything.
+2. aws_api_gateway Module: Minor Documentation bugfix.
+
+Docker Ansible Collection:
+1. docker_plugin Module: Added a new Docker Plugin Module to Create/Remove a Plugin, Enable/Disable a Plugin, Change the settings of a Plugin.
+
 #### Our Contributions
-Feature implementation in different Ansible Collections and Ansible Module.
+Contribution across different Ansible collections for - new Ansible Modules, bugfixes and additional feature development in existing Ansible Modules.
