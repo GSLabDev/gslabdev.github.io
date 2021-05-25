@@ -9,20 +9,23 @@ img: ansible-community-contribution.png
 thumb: thumb02.jpg
 carousel:
 - ansible-community-contribution.png
-client: For https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131, 136 For https://github.com/ansible-collections/azure Pull request - 243, 248, 254, 264, 271, 286, 333 For https://github.com/ansible-collections/community.aws Pull request - 283, 291, 395 For https://github.com/ansible-collections/community.docker Pull request - 95
+client: Ansible Collections
 ---
 
 #### Ansible Community Contribution
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It has different modules for integration. Following are the features that we have developed in different ansible module.
 
-Windows Ansible Collection:
+Contribution in existing Ansible Collections
+A. Windows Ansible Collection:
+Reference Link - https://github.com/ansible-collections/community.windows Pull requests - 90, 112, 127, 131, 136
 1. winZip Module: Added a new feature of password parameter which unarchive password protected zip files.
 2. win_dns_record Module: Added a new feature of SRV dns record to an existing win_dns_record module.
 3. win_firewall_rule Module: Added a new feature that allows the user to enable or disable all the firewall rules in a particular group.
 4. win_dns_record Module: Added a new feature of NS DNS record to an existing win_dns_record module.
 5. win_firewall Module: Added a new feature of inbound, outbound connections that allow the user to either block or allow the connection in windows firewall. 
 
-Azure Ansible Collection:
+B. Azure Ansible Collection:
+Reference Link - https://github.com/ansible-collections/azure Pull requests - 243, 248, 254, 264, 271, 286, 333 
 1. azure_rm_backupazurevm and azure_rm_backupazurevm_info Module: Added a new features of backup Azure VM for enabling protection, trigger on-demand backup, modify backup, top protection but retain existing data, Stop protection, delete data and get detail information about Azure VM backups.
 2. azure_rm_recoveryservicesvault and azure_rm_recoveryservicesvault_info Module: Added a new features of Azure Recovery Services Vault with operations create, update, delete and get detail information about Azure Recovery Services Vault.
 3. azure_rm Module: Added a new feature to fetch availability zone info into hostvars via Azure Inventory Script.
@@ -31,13 +34,20 @@ Azure Ansible Collection:
 6. azure_rm_subnet Module: Added a new feature to delegation capabilities in azure_rm_subnet module.
 7. azure_rm_apimanagementservice and azure_rm_apimanagementservice_info Module: Added a new features of Azure API management service with operations create, delete and update and get details information about Azure API management service.
 
-AWS Ansible Collection:
+C. AWS Ansible Collection:
+Reference Link - https://github.com/ansible-collections/community.aws Pull requests - 283, 291, 395
 1. ec2_win_password Module: Bugfixes in ec2_win_password Module. Bug1 - ec2_win_password returns success when it fails to decode the password. Bug2 - ec2_win_password returns changed state but doesn't change anything.
 2. aws_api_gateway Module: Minor Documentation bugfix.
 3. ecs_task Module: Added assignPublicIp support in network_configuration to the existing ecs_task module.
 
-Docker Ansible Collection:
+D. Docker Ansible Collection:
+Reference Link - https://github.com/ansible-collections/community.docker Pull requests - 95
 1. docker_plugin Module: Added a new Docker Plugin Module to Create/Remove a Plugin, Enable/Disable a Plugin, Change the settings of a Plugin.
 
+
+Contribution of new Ansible Collections
+Reference Link - https://galaxy.ansible.com/idmsubs/
+1. ManageEngine Collection: Ansible collection for creating Patch configurations on ManageEngine.
+
 #### Our Contributions
-Contribution across different Ansible collections for - new Ansible Modules, bugfixes and additional feature development in existing Ansible Modules.
+Contribution across different Ansible collections for - new Ansible Modules, bugfixes and additional feature development in existing Ansible Modules. Also, new Ansible collections.
