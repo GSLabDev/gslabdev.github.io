@@ -111,14 +111,6 @@ members:
         url: mailto:nachiket.kate@gslab.com
       - title: linkedin
         url: https://in.linkedin.com/in/nachiketkate
-  - name: Aarti Karve
-    text: Committer for ScaleArc Mysql Performance benchmark Project.
-    img: Aarti-Karve.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:aarti.karve@gslab.com
-      - title: linkedin
-        url: https://www.linkedin.com/in/aarti-karve-27a63014/
   - name: Basant Kumar
     text: Committer for Openstack Addon for Splunk Project.
     img: basant-kumar.jpg
@@ -183,22 +175,6 @@ members:
         url: mailto:sadhana.sonawa@gslab.com
       - title: linkedin
         url: https://www.linkedin.com/in/sadhana-sonawa-8b25a06b/
-  - name: Kiran Gund
-    text: Committer for Terraform Provider Project.
-    img: Kiran_Gund.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:kiran.gund@gslab.com
-      - title: linkedin
-        url: https://www.linkedin.com/in/kiran-gund-4482bb12a/
-  - name: Payal Rahatal
-    text: Committer for Terraform Provider Project.
-    img: Payal_Rahatal.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:payal.rahatal@gslab.com
-      - title: linkedin
-        url: https://www.linkedin.com/in/payal-rahatal-4b85bb119/
   - name: Nagnath Sawant
     text: Committer for Mulesoft Docker connector Project.
     img: Nagnath-sawant.jpg
@@ -247,6 +223,14 @@ members:
         url: mailto:sakar.mehra@gslab.com
       - title: linkedin
         url:  https://www.linkedin.com/in/sakar-mehra-73066a7b
+  - name: Nikhil Patne
+    text: Frequent committer for Ansible Collections Module Project.
+    img: Nikhil_Patne.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:nikhil.patne@gslab.com
+      - title: linkedin
+        url:  https://www.linkedin.com/in/nikhil-patne-783992157
 
 
 # Clients information. Shown on Home and About pages.
