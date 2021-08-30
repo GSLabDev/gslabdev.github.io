@@ -231,6 +231,14 @@ members:
         url: mailto:nikhil.patne@gslab.com
       - title: linkedin
         url:  https://www.linkedin.com/in/nikhil-patne-783992157
+  - name: Praveen Ghuge
+    text: Frequent committer for Ansible Collections Module Project and Infracost Project.
+    img: Praveen_Ghuge.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:praveen.ghuge@gslab.com
+      - title: linkedin
+        url:  https://www.linkedin.com/in/praveen-ghuge-a72952a7
 
 
 # Clients information. Shown on Home and About pages.
