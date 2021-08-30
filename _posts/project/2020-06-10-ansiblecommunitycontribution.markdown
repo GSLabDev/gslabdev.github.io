@@ -2,7 +2,7 @@
 layout: project
 title:  "Ansible community contribution"
 date:   2020-06-10 16:54:46
-author: Pallavi Joshi, Sakar Mehra, Nikhil Patne, Pallavi Chaudhari, Shwetali Berad, Praveen Ghugem, Karl Dasan, Saurabh Malpani
+author: Pallavi Joshi, Sakar Mehra, Nikhil Patne, Pallavi Chaudhari, Shwetali Berad, Aishwarya Bhosale, Praveen Ghugem, Karl Dasan, Saurabh Malpani
 categories:
 - project
 img: ansible.png
