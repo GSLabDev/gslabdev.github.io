@@ -28,19 +28,21 @@ Reference Link - https://github.com/ansible-collections/community.windows Pull r
 
 B. Azure Ansible Collection:
 
-Reference Link - https://github.com/ansible-collections/azure Pull requests - 243, 248, 254, 264, 271, 286, 322, 333, 484, 493, 496, 519
+Reference Link - https://github.com/ansible-collections/azure Pull requests - 243, 248, 254, 264, 271, 286, 322, 333, 484, 493, 495, 496, 501, 519
 1. azure_rm_backupazurevm and azure_rm_backupazurevm_info Module: Added a new features of backup Azure VM for enabling protection, trigger on-demand backup, modify backup, top protection but retain existing data, Stop protection, delete data and get detail information about Azure VM backups.
 2. azure_rm_recoveryservicesvault and azure_rm_recoveryservicesvault_info Module: Added a new features of Azure Recovery Services Vault with operations create, update, delete and get detail information about Azure Recovery Services Vault.
 3. azure_rm Module: Added a new feature to fetch availability zone info into hostvars via Azure Inventory Script.
 4. azure_rm_vmbackuppolicy azure_rm_vmbackuppolicy_info Module: Added a new features of Azure VM Backup Policy with oprations create, delete and get detail of VM Backup policy.
-5. azure_rm_privatednsrecordset Module: Added a new features of DNS record set in a Private DNS zone with operations create, update, deleta and get details of DNS record set from Private DNS zone.
+5. azure_rm_privatednsrecordset Module: Added a new features of DNS record set in a Private DNS zone with operations create, update, delete and get details of DNS record set from Private DNS zone.
 6. azure_rm_subnet Module: Added a new feature to delegation capabilities in azure_rm_subnet module.
 7. azure_rm_apimanagementservice and azure_rm_apimanagementservice_info Module: Added a new features of Azure API management service with operations create, delete and update and get details information about Azure API management service.
 8. azure_rm_apimanagement Module: Added a new features to create, delete, update API Instances on API Management Service. Also, get detail information about Azure API Instance.
 9. azure_rm_expressroute Module: Create, Update, Delete, Get the Express Route on Azure.
 10. azure_rm_notificationhub Module: Create, Update, Delete Notification Hub and Notification Hub Namespace on Azure.
 11. azure_rm_ddosprotectionplan	Module: Create, Update, Delete, DDoS Protection Plan on Azure.
-12. azure_rm_eventhub Module: Create, Update, Delete Event Hub, Event Hub Namespace on Azure
+12. azure_rm_eventhub Module: Create, Update, Delete Event Hub, Event Hub Namespace on Azure.
+13. azure_rm_proximityplacementgroup Module: New module for supporting operations on proximity placement group.
+14. azure_rm_privatednszonelink Module: New module for supporting operations on Private DNS zone link resource.
 
 C. AWS Ansible Collection:
 
