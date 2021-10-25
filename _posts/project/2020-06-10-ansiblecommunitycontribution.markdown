@@ -1,8 +1,8 @@
----
+	---
 layout: project
 title:  "Ansible community contribution"
 date:   2020-06-10 16:54:46
-author: Pallavi Joshi, Sakar Mehra, Nikhil Patne, Pallavi Chaudhari, Shwetali Berad, Aishwarya Bhosale, Praveen Ghugem, Karl Dasan, Saurabh Malpani
+author: Pallavi Joshi, Sakar Mehra, Nikhil Patne, Pallavi Chaudhari, Shwetali Berad, Aishwarya Bhosale, Praveen Ghugem, Karl Dasan, Saurabh Malpani, Aparna Patil
 categories:
 - project
 img: ansible.png
@@ -28,7 +28,7 @@ Reference Link - https://github.com/ansible-collections/community.windows Pull r
 
 B. Azure Ansible Collection:
 
-Reference Link - https://github.com/ansible-collections/azure Pull requests - 243, 248, 254, 264, 271, 286, 322, 333, 484, 493, 495, 496, 501, 519
+Reference Link - https://github.com/ansible-collections/azure Pull requests - 243, 248, 254, 264, 271, 286, 322, 333, 338, 484, 493, 495, 496, 501, 519, 552, 643
 1. azure_rm_backupazurevm and azure_rm_backupazurevm_info Module: Added a new features of backup Azure VM for enabling protection, trigger on-demand backup, modify backup, top protection but retain existing data, Stop protection, delete data and get detail information about Azure VM backups.
 2. azure_rm_recoveryservicesvault and azure_rm_recoveryservicesvault_info Module: Added a new features of Azure Recovery Services Vault with operations create, update, delete and get detail information about Azure Recovery Services Vault.
 3. azure_rm Module: Added a new feature to fetch availability zone info into hostvars via Azure Inventory Script.
@@ -43,6 +43,9 @@ Reference Link - https://github.com/ansible-collections/azure Pull requests - 24
 12. azure_rm_eventhub Module: Create, Update, Delete Event Hub, Event Hub Namespace on Azure.
 13. azure_rm_proximityplacementgroup Module: New module for supporting operations on proximity placement group.
 14. azure_rm_privatednszonelink Module: New module for supporting operations on Private DNS zone link resource.
+15. azure_rm_keyvault Module: Added support for enabling purge protection for keyvault. 
+16. azure_rm_containerinstance Module: Added support for mounting volumes in container instance. With this feature, following types of Volumes can be mounted - Empty directory Volume, Secret Volume, Git Repo Volume, Azure File Share Volume.
+17. azure_rm_diskencryptionset Module: Added new module to perform operations - Create, Update, Delete disk encryption set on Azure.
 
 C. AWS Ansible Collection:
 
