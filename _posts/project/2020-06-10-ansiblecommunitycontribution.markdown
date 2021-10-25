@@ -1,4 +1,4 @@
-	---
+---
 layout: project
 title:  "Ansible community contribution"
 date:   2020-06-10 16:54:46
